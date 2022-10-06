@@ -225,7 +225,7 @@ body {
   background: #f3f3f3;
 }
 
-.client-layout__Contents {
+.client-layout__contents {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -418,14 +418,14 @@ body {
   border-radius: 5px;
   font-size: 14px;
 }
-.contact-layout__Agency {
+.contact-layout__agency {
   margin-top: 10rem;
   display: flex;
   align-items: center;
   background: #fafafa;
   padding: 20px 0 0 5rem;
 }
-.contact-layout__Agency-button {
+.contact-layout__agency-button {
   cursor: pointer;
   outline: none;
   border: none;
@@ -436,16 +436,16 @@ body {
   color: white;
   margin-left: 38rem;
 }
-.contact-layaut__Agency-content {
+.contact-layaut__agency-content {
   font-family: "Montserrat";
   padding: 1rem 0 0 6rem;
 }
 
-.contact-layout__Agency-title {
+.contact-layout__agency-title {
   font-size: 24px;
   color: #252b42;
 }
-.contact-layout__Agency-subtitle {
+.contact-layout__agency-subtitle {
   font-size: 14px;
   color: #737373;
 }
@@ -459,7 +459,7 @@ body {
   flex-direction: column;
   padding-top: 40px;
   padding-bottom: 40px;
-  padding: 2rem 9rem ;
+  padding: 2rem 9rem;
 }
 
 .footer__contents {
@@ -511,7 +511,7 @@ body {
   cursor: pointer;
 }
 
-.footer__Emails{
+.footer__emails {
   background-color: white;
   border-radius: 5px;
   border: 1px solid white;
@@ -531,12 +531,12 @@ body {
   font-weight: 400;
 }
 
-.footer__author-container{
+.footer__author-container {
   background: #16697a;
   color: white;
   padding-bottom: 25px;
   font-size: 14px;
   line-height: 24px;
-  padding: 2rem 9rem ;
+  padding: 2rem 9rem;
   font-family: "Montserrat";
 }
